@@ -1,3 +1,8 @@
+注意：
+目前由于Android高版本存在各种限制，很多问题没有解决，如app容易被杀掉，无法唤醒。其次就是root问题，如截屏的问题是否可以采用非root方式解决等等。
+服务端目前实现的功能比较少，只能在地图上查看轨迹，以及给客户端发送一些简单设置命令。照片、视频、录音、短信等都没有在服务端的网页上查看。
+以上相关工作都没有在本库中进行，目前相关代码还只在我本机上实现，只有我自己能看到，等到大部分问题都解决后，在传到Github上来。
+
 Warning! Внимание!
 =============
 Site http://droidwatcher.ru/ is not an official "Droid Wather" site, and the application on this site, is not an application "Droid Watcher". This application can be used to access your personal data, the applications data on your device, passwords, and can also send spam and perform other illegal actions. For your safety, do not use a resource http://droidwatcher.ru/ - it is a fake.
